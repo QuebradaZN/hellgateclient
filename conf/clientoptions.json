@@ -12,8 +12,8 @@
         "clientWindowHeight": 600,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 283,
-        "clientWindowPositionY": 64,
+        "clientWindowPositionX": 215,
+        "clientWindowPositionY": 89,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
         "clientWindowWidth": 800
     },
@@ -48,7 +48,7 @@
     },
     "hotkeyOptions": {
         "autoSwitchHotkeyPreset": false,
-        "currentHotkeySetName": "Knight",
+        "currentHotkeySetName": "Paladin",
         "hotkeySets": {
             "Druid": {
                 "actionBarOptions": {
@@ -783,6 +783,14 @@
                     "mappings": [
                         {
                             "actionBar": 1,
+                            "actionButton": 9,
+                            "actionsetting": {
+                                "chatText": "exevo gran mas frigo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exori gran",
@@ -802,6 +810,62 @@
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exura infir ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 6,
+                            "actionsetting": {
+                                "chatText": "utito tempo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 7,
+                            "actionsetting": {
+                                "chatText": "exori gran ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "chatText": "/m Dawnfire Asura",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 4,
+                            "actionsetting": {
+                                "chatText": "/a 20",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "exiva moe res",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "chatText": "!emote on",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 11,
+                            "actionsetting": {
+                                "chatText": "!emote on",
                                 "sendAutomatically": true
                             }
                         }
@@ -1528,6 +1592,14 @@
                             "actionButton": 4,
                             "actionsetting": {
                                 "chatText": "exevo infir con",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "exori",
                                 "sendAutomatically": true
                             }
                         }
@@ -2948,7 +3020,7 @@
         "showStaticHotkeysFirst": true
     },
     "options": {
-        "actionBarBottomLocked": false,
+        "actionBarBottomLocked": true,
         "actionBarLeftLocked": false,
         "actionBarRightLocked": false,
         "actionBarShowBottom1": true,
@@ -2961,8 +3033,8 @@
         "actionBarShowRight2": true,
         "actionBarShowRight3": true,
         "actionBarsShowBottom": true,
-        "actionBarsShowLeft": true,
-        "actionBarsShowRight": true,
+        "actionBarsShowLeft": false,
+        "actionBarsShowRight": false,
         "actionButtonAllowTooltip": true,
         "actionButtonShowAmount": true,
         "actionButtonShowCooldownNumbers": true,
@@ -3018,7 +3090,7 @@
         "keyboardDelayUseDefault": true,
         "lightAmbientLevel": 0.25,
         "lightAttenuationCloudsIndoor": 0.75,
-        "lightEffectsEnabled": true,
+        "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "EMAIL",
@@ -3078,7 +3150,7 @@
         "stashAskBeforeStowContainerContent": true,
         "statusBarEnabled": true,
         "statusPanelEnabled": false,
-        "storeAskBeforeBuyingProducts": true,
+        "storeAskBeforeBuyingProducts": false,
         "tournamentButtonLastHighlightDateTime": 0,
         "vSyncEnabled": false
     },
