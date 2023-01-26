@@ -1,0 +1,473 @@
+[ 2022-12-14 07:45:34,663 ] Asset loading complete
+[ 2023-01-03 12:49:52,303 ] Asset loading complete
+[ 2023-01-03 12:50:10,256 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:50:11,310 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 12:50:11,310 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 12:50:11,310 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 12:50:11,509 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 12:50:11,517 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:50:11,534 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:50:12,522 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:50:55,637 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 12:50:55,688 ] Disconnected from gameserver
+[ 2023-01-03 12:53:19,994 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:53:21,248 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 12:53:21,252 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:53:21,267 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:53:21,802 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 12:56:05,838 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 12:56:05,889 ] Disconnected from gameserver
+[ 2023-01-03 12:56:05,936 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 12:56:38,201 ] Asset loading complete
+[ 2023-01-03 12:56:44,020 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:56:44,893 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 12:56:44,895 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 12:56:44,895 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 12:56:45,053 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 12:56:45,068 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:56:45,083 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:56:45,963 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:59:06,233 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 12:59:06,283 ] Disconnected from gameserver
+[ 2023-01-03 12:59:34,772 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 12:59:36,115 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 12:59:36,131 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:59:36,147 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 12:59:37,053 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:05:05,125 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:05:05,173 ] Disconnected from gameserver
+[ 2023-01-03 13:05:05,203 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:05:05,782 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 13:05:05,823 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:05:05,838 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:05:06,750 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:05:10,624 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:05:10,672 ] Disconnected from gameserver
+[ 2023-01-03 13:05:10,698 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:05:11,226 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 13:05:11,226 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:05:11,240 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:05:12,187 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:05:59,175 ] Asset loading complete
+[ 2023-01-03 13:06:06,985 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:06:07,873 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 13:06:07,873 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 13:06:07,873 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 13:06:07,962 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Macabrito" )
+[ 2023-01-03 13:06:07,968 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:06:07,984 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:06:08,054 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:06:08,063 ] Disconnected from gameserver
+[ 2023-01-03 13:06:08,933 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:06:23,739 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:06:24,512 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Macabrito" )
+[ 2023-01-03 13:06:24,512 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:06:24,528 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:06:25,575 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:07:05,426 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:07:05,500 ] Disconnected from gameserver
+[ 2023-01-03 13:07:05,574 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:09:44,806 ] Error while processing network packet unhandled enum value
+[ 2023-01-03 13:09:44,806 ] "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"
+[ 2023-01-03 13:15:10,369 ] Asset loading complete
+[ 2023-01-03 13:16:07,492 ] Asset loading complete
+[ 2023-01-03 13:16:21,753 ] Asset loading complete
+[ 2023-01-03 13:16:27,112 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:16:50,031 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:16:50,725 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 13:16:50,725 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 13:16:50,725 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 13:16:50,778 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Tesouro" )
+[ 2023-01-03 13:16:50,780 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:16:50,800 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:16:50,858 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:16:50,864 ] Disconnected from gameserver
+[ 2023-01-03 13:16:51,823 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:16:52,163 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:17:04,757 ] Asset loading complete
+[ 2023-01-03 13:17:14,690 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:17:15,280 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 13:17:15,280 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 13:17:15,280 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 13:17:15,336 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 13:17:15,338 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:15,353 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:16,367 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 13:17:20,942 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Tesouro" )
+[ 2023-01-03 13:17:20,943 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:20,960 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:21,017 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:17:21,023 ] Disconnected from gameserver
+[ 2023-01-03 13:17:21,889 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:17:25,707 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:17:26,684 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Tesouro" )
+[ 2023-01-03 13:17:26,686 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:26,701 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 13:17:27,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 13:17:31,720 ] Error while processing network packet unhandled enum value
+[ 2023-01-03 13:17:31,720 ] "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"
+[ 2023-01-03 13:18:21,358 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 13:18:21,407 ] Disconnected from gameserver
+[ 2023-01-03 18:41:14,446 ] Asset loading complete
+[ 2023-01-03 18:41:38,381 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 18:41:39,257 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 18:41:39,258 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 18:41:39,258 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 18:41:39,309 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:41:39,315 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:41:40,313 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 18:41:43,497 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:41:44,498 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:41:48,697 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:41:48,702 ] Disconnected from gameserver
+[ 2023-01-03 18:41:49,920 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:41:49,921 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:41:50,967 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 18:41:54,097 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:41:55,097 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:41:57,039 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:42:18,363 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:42:18,365 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:19,310 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:42:22,547 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:23,597 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:27,752 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:27,760 ] Disconnected from gameserver
+[ 2023-01-03 18:42:28,936 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:42:28,952 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:29,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:42:33,163 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:34,197 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:38,404 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:38,408 ] Disconnected from gameserver
+[ 2023-01-03 18:42:39,561 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:42:39,563 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:40,533 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:42:43,751 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:44,760 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:48,910 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:48,914 ] Disconnected from gameserver
+[ 2023-01-03 18:42:51,177 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:42:51,177 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:42:52,121 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:42:55,400 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:42:56,400 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:43:00,554 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:43:00,558 ] Disconnected from gameserver
+[ 2023-01-03 18:43:04,983 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:43:04,987 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:43:05,935 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:43:09,147 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:43:10,147 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:43:14,297 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:43:14,302 ] Disconnected from gameserver
+[ 2023-01-03 18:43:19,825 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 18:43:19,826 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:43:20,801 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 18:43:24,000 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "Connection refused" )
+[ 2023-01-03 18:43:25,007 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 18:43:26,043 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:00:01,711 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 19:00:01,759 ] Disconnected from gameserver
+[ 2023-01-03 19:00:39,737 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 19:00:40,829 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 19:00:40,831 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:00:40,843 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:00:41,793 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 19:01:18,316 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:18,580 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435840 found"
+[ 2023-01-03 19:01:19,109 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:19,468 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435839 found"
+[ 2023-01-03 19:01:21,515 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:21,533 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435839 found"
+[ 2023-01-03 19:01:21,947 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435840 found"
+[ 2023-01-03 19:01:22,268 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435840 found"
+[ 2023-01-03 19:01:22,321 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:23,921 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:24,440 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794102 found"
+[ 2023-01-03 19:01:24,723 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794100 found"
+[ 2023-01-03 19:01:25,238 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794102 found"
+[ 2023-01-03 19:01:26,064 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794102 found"
+[ 2023-01-03 19:01:26,897 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794104 found"
+[ 2023-01-03 19:01:27,717 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794104 found"
+[ 2023-01-03 19:01:31,677 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:32,481 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:33,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:34,085 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:34,889 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:35,828 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794088 found"
+[ 2023-01-03 19:01:36,866 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794040 found"
+[ 2023-01-03 19:01:37,706 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794040 found"
+[ 2023-01-03 19:01:42,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794176 found"
+[ 2023-01-03 19:01:43,755 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435840 found"
+[ 2023-01-03 19:01:57,382 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794023 found"
+[ 2023-01-03 19:01:58,542 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794023 found"
+[ 2023-01-03 19:02:28,719 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073783191 found"
+[ 2023-01-03 19:02:28,719 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:30,442 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:33,309 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:33,555 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:34,112 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:34,113 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:34,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:35,309 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:36,595 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:36,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:36,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:36,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:42,311 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:43,037 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:43,256 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:44,276 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:45,057 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:45,098 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:45,735 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:46,814 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820066 found"
+[ 2023-01-03 19:02:47,383 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:47,615 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820066 found"
+[ 2023-01-03 19:02:48,292 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:48,413 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820066 found"
+[ 2023-01-03 19:02:49,213 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820066 found"
+[ 2023-01-03 19:02:49,317 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:49,356 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:50,031 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820066 found"
+[ 2023-01-03 19:02:50,031 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:53,972 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820065 found"
+[ 2023-01-03 19:02:54,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:54,772 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820065 found"
+[ 2023-01-03 19:02:55,575 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820065 found"
+[ 2023-01-03 19:02:56,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820065 found"
+[ 2023-01-03 19:02:57,195 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820065 found"
+[ 2023-01-03 19:02:57,195 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435827 found"
+[ 2023-01-03 19:02:57,609 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820068 found"
+[ 2023-01-03 19:02:59,465 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820068 found"
+[ 2023-01-03 19:03:01,255 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820070 found"
+[ 2023-01-03 19:03:16,443 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820086 found"
+[ 2023-01-03 19:03:17,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820086 found"
+[ 2023-01-03 19:03:20,548 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:21,347 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:22,154 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:22,665 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:22,952 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:23,464 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:23,769 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820088 found"
+[ 2023-01-03 19:03:25,702 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820089 found"
+[ 2023-01-03 19:03:26,525 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820089 found"
+[ 2023-01-03 19:03:27,345 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820087 found"
+[ 2023-01-03 19:03:28,927 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820087 found"
+[ 2023-01-03 19:03:30,784 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820092 found"
+[ 2023-01-03 19:03:31,585 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820092 found"
+[ 2023-01-03 19:03:35,247 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:36,854 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:37,645 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:38,453 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:41,333 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:43,502 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:44,305 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:45,904 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:46,493 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:46,704 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:47,319 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820085 found"
+[ 2023-01-03 19:03:48,400 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820093 found"
+[ 2023-01-03 19:03:49,202 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820093 found"
+[ 2023-01-03 19:03:52,512 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:53,313 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:54,063 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:54,114 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:54,867 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:55,715 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:03:56,314 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820102 found"
+[ 2023-01-03 19:04:07,511 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820090 found"
+[ 2023-01-03 19:04:08,657 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820090 found"
+[ 2023-01-03 19:04:10,707 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:12,410 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:13,209 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:14,012 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:29,752 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820108 found"
+[ 2023-01-03 19:04:30,997 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820106 found"
+[ 2023-01-03 19:04:32,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820106 found"
+[ 2023-01-03 19:04:33,982 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:34,804 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794172 found"
+[ 2023-01-03 19:04:36,293 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:36,688 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:37,387 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:37,488 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:38,183 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:39,113 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820107 found"
+[ 2023-01-03 19:04:39,892 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794157 found"
+[ 2023-01-03 19:04:40,694 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794157 found"
+[ 2023-01-03 19:05:10,041 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:10,435 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:10,883 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:11,237 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:11,688 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:12,042 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:12,843 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820114 found"
+[ 2023-01-03 19:05:14,153 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820113 found"
+[ 2023-01-03 19:05:14,777 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820113 found"
+[ 2023-01-03 19:05:17,451 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:18,253 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:19,054 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:19,855 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:20,655 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:21,455 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:22,279 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820117 found"
+[ 2023-01-03 19:05:23,193 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820118 found"
+[ 2023-01-03 19:05:24,795 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820118 found"
+[ 2023-01-03 19:05:30,941 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820111 found"
+[ 2023-01-03 19:05:31,732 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820116 found"
+[ 2023-01-03 19:05:32,269 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820116 found"
+[ 2023-01-03 19:05:57,675 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820122 found"
+[ 2023-01-03 19:05:59,581 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820122 found"
+[ 2023-01-03 19:06:01,076 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:04,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:05,520 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:07,121 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:07,924 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:10,329 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:11,130 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:11,930 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:12,761 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820119 found"
+[ 2023-01-03 19:06:13,881 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820101 found"
+[ 2023-01-03 19:06:15,929 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793995 found"
+[ 2023-01-03 19:06:17,246 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793995 found"
+[ 2023-01-03 19:06:19,327 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820128 found"
+[ 2023-01-03 19:06:21,722 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820128 found"
+[ 2023-01-03 19:06:22,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820128 found"
+[ 2023-01-03 19:06:22,664 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820123 found"
+[ 2023-01-03 19:06:23,459 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820123 found"
+[ 2023-01-03 19:06:24,130 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820128 found"
+[ 2023-01-03 19:06:24,263 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820123 found"
+[ 2023-01-03 19:06:24,929 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820128 found"
+[ 2023-01-03 19:06:28,468 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820115 found"
+[ 2023-01-03 19:06:31,396 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820069 found"
+[ 2023-01-03 19:06:48,486 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820133 found"
+[ 2023-01-03 19:06:48,566 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:49,285 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820133 found"
+[ 2023-01-03 19:06:49,336 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:50,089 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820133 found"
+[ 2023-01-03 19:06:50,389 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:50,887 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820133 found"
+[ 2023-01-03 19:06:50,928 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:51,729 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:51,982 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820134 found"
+[ 2023-01-03 19:06:52,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820133 found"
+[ 2023-01-03 19:06:53,491 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820131 found"
+[ 2023-01-03 19:06:59,468 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073783195 found"
+[ 2023-01-03 19:07:00,270 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073783195 found"
+[ 2023-01-03 19:07:22,848 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820137 found"
+[ 2023-01-03 19:09:52,103 ] Asset loading complete
+[ 2023-01-03 19:10:00,438 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:10:01,126 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 19:10:01,127 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 19:10:01,127 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 19:10:01,191 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Tesouro" )
+[ 2023-01-03 19:10:01,195 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:10:01,206 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:10:02,209 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:11:47,625 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820194 found"
+[ 2023-01-03 19:11:48,625 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820194 found"
+[ 2023-01-03 19:11:49,983 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820194 found"
+[ 2023-01-03 19:11:51,297 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820194 found"
+[ 2023-01-03 19:11:52,726 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820194 found"
+[ 2023-01-03 19:12:10,841 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820192 found"
+[ 2023-01-03 19:12:12,860 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820192 found"
+[ 2023-01-03 19:12:23,228 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820161 found"
+[ 2023-01-03 19:12:24,234 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820161 found"
+[ 2023-01-03 19:12:25,006 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820161 found"
+[ 2023-01-03 19:12:25,006 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435833 found"
+[ 2023-01-03 19:12:25,006 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435833 found"
+[ 2023-01-03 19:12:58,812 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:02,955 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:07,093 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:11,236 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:12,686 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:15,374 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:16,627 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:13:16,627 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:14:23,065 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820220 found"
+[ 2023-01-03 19:14:24,286 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820220 found"
+[ 2023-01-03 19:14:29,716 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820221 found"
+[ 2023-01-03 19:14:30,719 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820221 found"
+[ 2023-01-03 19:14:34,731 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820217 found"
+[ 2023-01-03 19:14:36,189 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073820217 found"
+[ 2023-01-03 19:15:01,306 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794081 found"
+[ 2023-01-03 19:15:02,668 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794081 found"
+[ 2023-01-03 19:15:10,007 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794024 found"
+[ 2023-01-03 19:15:11,004 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794024 found"
+[ 2023-01-03 19:15:15,004 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:16,002 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:17,006 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:18,001 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:19,002 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:20,903 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:15:22,008 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:23,072 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:24,066 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:24,772 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:15:26,086 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793985 found"
+[ 2023-01-03 19:15:26,087 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:15:29,624 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793982 found"
+[ 2023-01-03 19:15:30,911 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793982 found"
+[ 2023-01-03 19:15:32,464 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793982 found"
+[ 2023-01-03 19:15:34,400 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793981 found"
+[ 2023-01-03 19:15:35,799 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793981 found"
+[ 2023-01-03 19:15:36,804 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793981 found"
+[ 2023-01-03 19:15:39,750 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793981 found"
+[ 2023-01-03 19:15:40,156 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:15:41,563 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:15:42,014 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 19:15:42,080 ] Disconnected from gameserver
+[ 2023-01-03 19:23:37,630 ] Asset loading complete
+[ 2023-01-03 19:23:53,092 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:23:53,965 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 19:23:53,965 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 19:23:53,965 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 19:23:54,019 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "[ADM] HellGate" )
+[ 2023-01-03 19:23:54,023 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:23:54,040 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:23:55,052 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:24:04,718 ] Asset loading complete
+[ 2023-01-03 19:24:13,557 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:24:14,180 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 19:24:14,180 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 19:24:14,180 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 19:24:14,260 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Tesouro" )
+[ 2023-01-03 19:24:14,264 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:24:14,279 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 19:24:15,284 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 19:24:35,794 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:24:39,806 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435835 found"
+[ 2023-01-03 19:24:39,816 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794081 found"
+[ 2023-01-03 19:24:43,375 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794081 found"
+[ 2023-01-03 19:24:45,753 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794024 found"
+[ 2023-01-03 19:24:59,742 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794148 found"
+[ 2023-01-03 20:13:44,422 ] Asset loading complete
+[ 2023-01-03 20:33:35,715 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 20:33:36,456 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-03 20:33:36,456 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-03 20:33:36,456 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-03 20:33:36,517 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Gainnopain" )
+[ 2023-01-03 20:33:36,526 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 20:33:36,541 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 20:33:37,563 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 20:42:11,432 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"
+[ 2023-01-03 20:42:12,426 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"
+[ 2023-01-03 20:42:13,423 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"
+[ 2023-01-03 20:42:25,059 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435845 found"
+[ 2023-01-03 20:42:49,782 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073821973 found"
+[ 2023-01-03 20:42:57,252 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435838 found"
+[ 2023-01-03 20:42:58,266 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435838 found"
+[ 2023-01-03 20:42:58,266 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435838 found"
+[ 2023-01-03 20:43:32,491 ] Connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-03 20:43:32,548 ] Disconnected from gameserver
+[ 2023-01-03 20:44:19,666 ] News query failed: "Unrecognized event news."
+[ 2023-01-03 20:44:20,656 ] Request connection to gameserver  "tcp://150.230.82.1:7172"  (unprotected:  "tcp://150.230.82.1:7172" )  requested (Charakter "Gainnopain" )
+[ 2023-01-03 20:44:20,700 ] Request connection to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 20:44:20,722 ] Connected to gameserver  "tcp://150.230.82.1:7172" "HellGate"
+[ 2023-01-03 20:44:21,219 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794098 found"
+[ 2023-01-03 20:44:21,541 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hellgate-global.com.br/login.php") ) due to too many retries.
+[ 2023-01-03 20:44:22,573 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073794177 found"
+[ 2023-01-03 20:46:31,096 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"
+[ 2023-01-03 20:46:33,105 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"
+[ 2023-01-03 20:46:35,189 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435844 found"

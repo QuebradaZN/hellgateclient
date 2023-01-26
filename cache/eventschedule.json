@@ -1,0 +1,27 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "Aproveite o Bonus de Loot e Skill nessa Inauguração!",
+            "displaypriority": 6,
+            "enddate": 1672801200,
+            "isseasonal": false,
+            "name": "Inauguração",
+            "specialevent": 0,
+            "startdate": 1672714800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1667790000,
+            "isseasonal": false,
+            "name": "Otservbr example 2",
+            "specialevent": 0,
+            "startdate": 1643770800
+        }
+    ],
+    "lastupdatetimestamp": 1672787627
+}

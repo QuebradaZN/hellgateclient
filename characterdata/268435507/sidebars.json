@@ -110,13 +110,21 @@
         "openWidgetsOrderPerSidebar": [
             [
                 {
+                    "instance": 0,
+                    "type": "container"
+                },
+                {
+                    "instance": 1,
+                    "type": "container"
+                },
+                {
                     "type": "skills"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 243,
+        "contentHeight": 399,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
